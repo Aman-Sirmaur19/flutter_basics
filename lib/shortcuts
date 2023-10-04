@@ -1,0 +1,9 @@
+shift + enter --> "come in next line from middle of any line"
+ctrl + F4 --> "delete existing tab"
+alt + enter --> right click on 'attribute' >> show attribute's actions
+ctrl + space --> show attributes
+ctrl + d --> copy current line to the next line
+ctrl + shift + F10 --> 'run' the code
+shift + esc --> close terminal
+shift + alt + up/down arrow key --> move lines up/down
+click on file + space --> "show contents of file in preview"
